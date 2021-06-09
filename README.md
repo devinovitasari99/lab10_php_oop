@@ -6,4 +6,17 @@ Membuat file mobil.php
 
 ![logo](https://github.com/devinovitasari99/lab10_php_oop/blob/main/input%20mobil%201.PNG)
 
-[Read more words!]()
+![logo](https://github.com/devinovitasari99/lab10_php_oop/blob/main/input%20mobil%202.PNG)
+
+Output
+
+![logo](https://github.com/devinovitasari99/lab10_php_oop/blob/main/output%20mobil.PNG)
+
+Membuat form_input
+
+![logo](https://github.com/devinovitasari99/lab10_php_oop/blob/main/form%20input.PNG)
+
+output
+
+![logo](https://github.com/devinovitasari99/lab10_php_oop/blob/main/output%20form%20input.PNG)
+
