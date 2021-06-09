@@ -4,6 +4,6 @@ OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorient
 # Praktikum 
 Membuat file mobil.php
 
-[Read more words!](https://github.com/devinovitasari99/lab10_php_oop/blob/main/input%20mobil%201.PNG)
+![logo](https://github.com/devinovitasari99/lab10_php_oop/blob/main/input%20mobil%201.PNG)
 
 [Read more words!]()
